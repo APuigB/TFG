@@ -1,13 +1,4 @@
 # TFG
 Repository for TFG app
 
-
-| Task                 | Status       |
-|----------------------|--------------|
-| App Name             | Complete     |
-| Create Google Survey and send it    | In progress   |
-| Create Python code to compute cost    | In progress     |
-| Create GitHub repository   | Complete     |
-| Think about different features of the app | Complete |
-| Create prototypes using Figma | Incomplete |
-| Download the necessary to program with Dart | Incomplete |
+Development of a Mobile Application to make group grocery shopping easier and more organized, through the creation of 'grocery groups' in which users can add to the group shopping list the items they want from a given supermarket. The person who does the shopping can then find the nearest supermarket on the Google Maps integrated API, and cross off the list the items he/she purchases. Accessing the supermarkets' item catalogs will make the users able to directly select a given product of that supermarket and not simply generalize a food type. Furthermore, groups can have administrators to regulate the adding / deleting of items to the list; splitting the bill depending on the items, etc. If needed, monetization strategies can be put in place in order to create a legitimate business. 
